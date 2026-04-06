@@ -1,0 +1,7 @@
+mental_condition,DNA methylation,Epigenetics,Gene expression,Gene regulation,Stress response
+Anxiety,1,1,1,0,0
+Depression,2,2,1,0,0
+PTSD,2,1,1,0,0
+Psychiatric disorders,0,0,0,1,1
+Stress,0,0,1,1,1
+Stress-related disorders,1,1,0,0,1

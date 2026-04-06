@@ -1,0 +1,4 @@
+paper_id,title,year,journal,first_author,institution,country,mental_condition,genes,mechanism,study_type,abstract,notes,link
+P1,Expression of the PPM1F Gene Is Regulated by Stress and Associated With Anxiety and Depression,2017,,,,,Stress; Anxiety; Depression,PPM1F,Gene expression,Experimental,,Strong core paper,https://pubmed.ncbi.nlm.nih.gov/29054677/
+P2,Epigenetic Changes of FKBP5 as a Link Connecting Genetic and Environmental Risk Factors with Structural and Functional Brain Changes in Major Depression,2018,,,,,Depression,FKBP5,DNA methylation; Epigenetics,Review,,Important background and gene-specific paper,https://pubmed.ncbi.nlm.nih.gov/29182159/
+P3,BDNF methylation in PTSD patients,2025,,,,,PTSD,BDNF,DNA methylation; Epigenetics,Meta-analysis,,Useful for PTSD-related evidence,https://pubmed.ncbi.nlm.nih.gov/39892213/
